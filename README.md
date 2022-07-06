@@ -13,3 +13,6 @@
 - [Quarkus Super-Heroes Workshop](https://quarkus.io/quarkus-workshops/super-heroes/) - Enduser Workshop from [quarkus.io](https://quarkus.io/)
 - [Quarkus Basics Master Course](https://www.redhat.com/en/about/videos/quarkus-basics-master-course) - YouTube Session
 - [Quarkus Guides](https://quarkus.io/guides/)from [quarkus.io](https://quarkus.io/)
+
+### JBoss EAP
+- [The road to JBoss EAP 8](https://developers.redhat.com/articles/2022/06/24/road-jboss-eap-8?sc_cid=7013a00000317qdAAA#)
