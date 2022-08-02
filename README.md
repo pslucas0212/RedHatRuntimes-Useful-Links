@@ -16,3 +16,6 @@
 
 ### JBoss EAP
 - [The road to JBoss EAP 8](https://developers.redhat.com/articles/2022/06/24/road-jboss-eap-8?sc_cid=7013a00000317qdAAA#)
+
+### Spring Boot
+- [Red Hat support for Spring Boot](https://access.redhat.com/products/spring-boot)
