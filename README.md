@@ -4,6 +4,7 @@
 
 ### Subscriptions
 - [Red Hat Application Services subscription guide](https://www.redhat.com/en/resources/application-services-subscription-guide-detail) - July 2021
+- [Red Hat Runtimes: Component Details Overview](https://access.redhat.com/articles/3348731)
 
 ### Red Hat JBoss
 - [How to download the JBoss EAP 6 source code package ?](https://access.redhat.com/solutions/1395353)
@@ -18,4 +19,5 @@
 - [The road to JBoss EAP 8](https://developers.redhat.com/articles/2022/06/24/road-jboss-eap-8?sc_cid=7013a00000317qdAAA#)
 
 ### Spring Boot
+- [Red Hat support for Spring Boot Supported Configurations](https://access.redhat.com/articles/3349341)
 - [Red Hat support for Spring Boot](https://access.redhat.com/products/spring-boot)
