@@ -7,6 +7,8 @@
 
 ### Subscriptions
 - [Red Hat Application Services subscription guide](https://www.redhat.com/en/resources/application-services-subscription-guide-detail) - July 2021
+- [Red Hat Application Services Product Update and Support Policy](https://access.redhat.com/support/policy/updates/jboss_notes)
+- [Difference between a JBoss EAP ELS Program subscription and JBoss EAP Subscription.](https://access.redhat.com/solutions/3440561)
 
 ### Learning
 - [Red Hat Workshops on Github](https://github.com/RedHatWorkshops/)
