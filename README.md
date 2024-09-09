@@ -7,6 +7,9 @@ FYI... [Red Hat Software Subscription Policy.  AKA "The all or nothing clause."]
 ### Red Hat Runtimes General
 - [Red Hat Runtimes: Component Details Overview](https://access.redhat.com/articles/3348731)
 
+### Application Modernization
+- [Application modernization explained](https://cloud.redhat.com/learn/application-modernization-explained#page-title)
+
 ### Subscriptions
 - [Red Hat Application Services subscription guide](https://www.redhat.com/en/resources/application-services-subscription-guide-detail) - July 2021
 - [Red Hat Application Services Product Update and Support Policy](https://access.redhat.com/support/policy/updates/jboss_notes)
